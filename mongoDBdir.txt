@@ -1,0 +1,2 @@
+"C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe"
+mongorestore --nsInclude 'silverpos.*' --drop C:\Users\SahilHP\Documents\Python Scripts\POS\silverpos
